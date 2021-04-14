@@ -1,0 +1,55 @@
+{
+  "Anime": [
+    {
+      "id": 1,
+      "nom": "Tokyo Revengers",
+      "auteur": "Ken Wakui",
+      "studio": "Lidens Film",
+	    "saisons": "1",
+      "episodes": "1"
+    },
+    {
+      "id": 2,
+      "nom": "Attaque des Titans",
+      "auteur": "Hajime Isayama",
+      "studio": "Wit Studio/Mappa",
+	    "saisons": "4",
+      "episodes": "16"
+    },
+    {
+      "id": 3,
+      "nom": "Jujutsu Kaisen",
+      "auteur": "Gege Akutami",
+      "studio": "Mappa",
+	    "saisons": "1",
+      "episodes": "24"
+    }
+  ],
+
+  "Manga": [
+    {
+      "id": 1,
+      "nom": "Tokyo Revengers",
+      "auteur": "Ken Wakui",
+      "edition": "Glenat",
+	    "volumes": "21",
+      "chapitres": "201"
+    },
+    {
+      "id": 2,
+      "nom": "Attaque des titans",
+      "auteur": "",
+      "edition": "Pika",
+	    "volumes": "34",
+      "chapitres": "139"
+    },
+    {
+      "id": 3,
+      "nom": "Jujutsu Kaisen",
+      "auteur": "Gege Akutami",
+      "edition": "Ki-oon",
+	    "volumes": "1",
+      "chapitres": "4"
+    }
+  ]
+}

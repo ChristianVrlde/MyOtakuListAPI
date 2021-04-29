@@ -1,0 +1,61 @@
+Liste anime/manga :
+
+- Tokyo Revengers
+- Attaque des titans
+- Jujutsu Kaisen
+- My hero academia
+- Demon Slayer
+- Chainsaw Man
+- Fire Punch
+- Spy x Family
+
+Db.Json :
+
+{
+  "Anime": [
+    {
+      "id": 1,
+      "nom": "Tokyo Revengers",
+      "auteur": "Ken Wakui",
+      "studio": "Lidens Film",
+      "episodes": "5",
+    },
+    {
+      "id": 2,
+      "nom": "Attaque des Titans",
+      "auteur": "Hajime Isayama",
+      "studio": "Wit Studio",
+      "episodes": "5",
+    },
+    {
+      "id": 3,
+      "nom": "Jujutsu Kaisen",
+      "auteur": "",
+      "studio": "Mappa",
+      "episodes": "5",
+    }
+  ],
+  "Manga": [
+    {
+      "id": 1,
+      "nom": "Tokyo Revengers",
+      "auteur": "Ken Wakui",
+      "edition": "Glenat",
+      "chapitres": "5",
+    },
+    {
+      "id": 2,
+      "nom": "Attaque des titans",
+      "auteur": "",
+      "edition": "Pika",
+      "chapitres": "5",
+    },
+    {
+      "id": 3,
+      "nom": "Jujutsu Kaisen",
+      "auteur": "Gege Akutami",
+      "edition": "Ki-oon",
+      "chapitres": "5",
+    }
+  ]
+}

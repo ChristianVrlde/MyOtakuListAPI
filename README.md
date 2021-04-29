@@ -2,6 +2,7 @@
 List anime &amp; manga
 
 Heroku : 
+
 https://myotakulist-api.herokuapp.com/
 
 LocalHost :
